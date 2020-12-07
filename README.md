@@ -47,4 +47,4 @@ The decrease of the loss function is shown in the following figure.
 
 <img src="https://github.com/JINGHU-UT/PINN-elasticity/blob/main/output/loss.png" width="600"/>
 
-> **Note:** The implementations were developed and tested on colab with TensorFlow 1.9 and hardware accelerator choosen as GPU.
+> **Note:** The implementations were developed and tested on colab with TensorFlow 1.9 and hardware accelerator chosen as GPU.
