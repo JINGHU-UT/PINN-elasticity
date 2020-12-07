@@ -33,15 +33,15 @@ In the numerical implementation, we output both displacements and stresses and a
 
 For model parameters: <a href="https://www.codecogs.com/eqnedit.php?latex=\dpi{300}&space;\tiny&space;\lambda=1" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\dpi{300}&space;\tiny&space;\lambda=1" title="\tiny \lambda=1" /></a>, <a href="https://www.codecogs.com/eqnedit.php?latex=\dpi{300}&space;\tiny&space;\mu=0.5" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\dpi{300}&space;\tiny&space;\mu=0.5" title="\tiny \mu=0.5" /></a> and <a href="https://www.codecogs.com/eqnedit.php?latex=\dpi{300}&space;\tiny&space;Q=4" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\dpi{300}&space;\tiny&space;Q=4" title="\tiny Q=4" /></a>, we have the following results
 
-<img src="https://github.com/JINGHU-UT/PINN-elasticity/blob/main/output/u_PINN.png" width="400"/> <img src="https://github.com/JINGHU-UT/PINN-elasticity/blob/main/output/u_anal.png" width="400"/>
+<img src="https://github.com/JINGHU-UT/PINN-elasticity/blob/main/output/u_PINN.png" width="300"/> <img src="https://github.com/JINGHU-UT/PINN-elasticity/blob/main/output/u_anal.png" width="300"/>
 
-<img src="https://github.com/JINGHU-UT/PINN-elasticity/blob/main/output/v_PINN.png" width="400"/> <img src="https://github.com/JINGHU-UT/PINN-elasticity/blob/main/output/v_anal.png" width="400"/>
+<img src="https://github.com/JINGHU-UT/PINN-elasticity/blob/main/output/v_PINN.png" width="300"/> <img src="https://github.com/JINGHU-UT/PINN-elasticity/blob/main/output/v_anal.png" width="300"/>
 
-<img src="https://github.com/JINGHU-UT/PINN-elasticity/blob/main/output/sxx_PINN.png" width="400"/> <img src="https://github.com/JINGHU-UT/PINN-elasticity/blob/main/output/sxx_anal.png" width="400"/>
+<img src="https://github.com/JINGHU-UT/PINN-elasticity/blob/main/output/sxx_PINN.png" width="300"/> <img src="https://github.com/JINGHU-UT/PINN-elasticity/blob/main/output/sxx_anal.png" width="300"/>
 
-<img src="https://github.com/JINGHU-UT/PINN-elasticity/blob/main/output/syy_PINN.png" width="400"/> <img src="https://github.com/JINGHU-UT/PINN-elasticity/blob/main/output/syy_anal.png" width="400"/>
+<img src="https://github.com/JINGHU-UT/PINN-elasticity/blob/main/output/syy_PINN.png" width="300"/> <img src="https://github.com/JINGHU-UT/PINN-elasticity/blob/main/output/syy_anal.png" width="300"/>
 
-<img src="https://github.com/JINGHU-UT/PINN-elasticity/blob/main/output/sxy_PINN.png" width="400"/> <img src="https://github.com/JINGHU-UT/PINN-elasticity/blob/main/output/sxy_anal.png" width="400"/>
+<img src="https://github.com/JINGHU-UT/PINN-elasticity/blob/main/output/sxy_PINN.png" width="300"/> <img src="https://github.com/JINGHU-UT/PINN-elasticity/blob/main/output/sxy_anal.png" width="300"/>
 
 The decrease of the loss function is shown in the following figure.
 
